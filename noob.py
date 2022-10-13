@@ -1,0 +1,3 @@
+import noob
+noob.login()
+
