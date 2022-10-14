@@ -1,3 +1,0 @@
-import noob
-noob.login()
-
